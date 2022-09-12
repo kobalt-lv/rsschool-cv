@@ -1,1 +1,0 @@
-https://github.com/kobalt-lv/rsschool-cv/cv
